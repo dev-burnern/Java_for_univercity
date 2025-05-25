@@ -1,4 +1,4 @@
-import java.security.spec.RSAOtherPrimeInfo;
+package Chap02;
 
 public class Variable01 {
     public static void main(String[] args) {
