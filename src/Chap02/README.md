@@ -113,19 +113,19 @@ System.out.println("이름 : \n" + myName + "\n나이 : \n" + myAge);
 
 ## 8. 파일별 간단 요약
 
-| 파일명             | 주요 내용 요약                                      |
-|--------------------|----------------------------------------------------|
-| Datatype01.java    | 정수형 변수 선언/출력                               |
-| Datatype02.java    | 실수형 변수 선언/출력                               |
-| Datatype03.java    | 문자형 변수, 문자 연산                              |
-| Datatype04.java    | 문자열 변수 선언/출력                               |
-| Datatype05.java    | boolean 자료형 사용                                 |
-| Variable01.java    | 변수 선언, 값 대입                                  |
-| Variable02.java    | 상수 선언, 원의 넓이 계산                           |
-| Example01.java     | 상수와 변수의 차이, 출력문                          |
-| Example02.java     | 줄바꿈 문자(`\\n`) 활용 출력                        |
-| InputOutput01.java | 변수 선언 후 출력                                   |
-| InputOutput02.java | 이스케이프 문자(`\\n`, `\\t`) 활용 출력             |
+| 파일명             | 주요 내용 요약                                   |
+|--------------------|-------------------------------------------------|
+| Datatype01.java    | 정수형 변수 선언/출력                            |
+| Datatype02.java    | 실수형 변수 선언/출력                            |
+| Datatype03.java    | 문자형 변수, 문자 연산                           |
+| Datatype04.java    | 문자열 변수 선언/출력                            |
+| Datatype05.java    | boolean 자료형 사용                              |
+| Variable01.java    | 변수 선언, 값 대입                               |
+| Variable02.java    | 상수 선언, 원의 넓이 계산                         |
+| Example01.java     | 상수와 변수의 차이, 출력문                        |
+| Example02.java     | 줄바꿈 문자(`\n`) 활용 출력                      |
+| InputOutput01.java | 변수 선언 후 출력                                |
+| InputOutput02.java | 이스케이프 문자(`\n`, `\t`) 활용 출력             |
 
 ---
 
